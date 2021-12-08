@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import Film from './Film';
 import List from './List';
 
 interface Props {};
